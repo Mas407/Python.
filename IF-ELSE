@@ -1,0 +1,7 @@
+ 
+a=int(input("Enter the number "))
+if(a>=10):
+    print("Number is ",a)
+else:
+    print("Less than 10")
+   
